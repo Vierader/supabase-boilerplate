@@ -1,1 +1,8 @@
-/* Add screen styles below */
+table {
+    border: 2px solid;
+    border-collapse: collapse;
+    width: auto;
+    text-align: center;
+    background-color: #008cba;
+    color: #fffff;
+}
